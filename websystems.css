@@ -1,0 +1,160 @@
+html {
+     font-size : 2vw;
+}
+
+
+h1 {
+     font-size : 6vw;
+     text-align : center;
+     color : blue;
+}
+
+h4 {
+     font-size : 4vw;
+     color : red;
+     font-style : italic;
+}
+
+h5 {
+     font-size: 3vw;
+     color : red;
+     font-style : italic;
+}
+
+a:link {
+     color : blue;
+}
+
+a:active {
+     color : firebrick;
+}
+
+a:visited {
+     color: purple;
+}
+
+
+ul { 
+     font-size : 2vw;
+     list-style-type : square;
+     list-style-position : inside;
+}
+
+table, th, td {
+     border : 1px solid black;
+     text-align: center;
+     
+
+}
+.websiteintro {
+     color: red;
+     font-style : italic;
+}
+
+.links1 {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+     font-weight: bold;
+}
+
+.links1 > pre {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align : center;
+}
+
+.links2 {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align: center;
+     font-weight : bold;
+}
+
+
+.links2 > pre {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align : center;
+}
+
+.links3 {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align : center;
+     font-weight : bold;
+}
+
+.links3 > pre {
+     font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-align : center;
+}
+
+.pastcomp {
+     background-color: lightgoldenrodyellow;
+     font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hobbies {
+     background-color: black;
+     color: white;
+}
+
+.jobs {
+     background-color: blue;
+     color: white;
+     font-family: 'Times New Roman', Times, serif;  
+}
+
+.jobdescriptions {
+     background-color: lightgoldenrodyellow;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+}
+
+.commentbody {
+     background-color: lightgoldenrodyellow;
+}
+
+#tableheading {
+     color: blue;
+     text-align: center;
+     font-style: normal;
+}
+
+#linksdescription {
+     font-size : 3vw;
+     color: white;
+     font-style: italic;
+     background-color: black;
+}
+
+#linkheading1 {
+     font-weight: bold;
+     font-style : normal;
+     color: blue;
+     text-align: center;
+}
+
+#linkheading2 {
+     font-weight : bold;
+     font-style : normal;
+     color: blue;
+     text-align: center;
+
+}
+
+#linkheading3 {
+     font-weight : bold;
+     font-style : normal;
+     color: blue;
+     text-align: center;
+
+}
+
+#hobbyheading {
+     color: white;
+     font-style : normal;
+     text-align : center;
+
+}
+
+
+
+
+
